@@ -11,3 +11,4 @@ chmod +x script7.sh
 chmod +x script8.sh
 chmod +x script9.sh
 chmod +x script10.sh
+ls -la
